@@ -1,6 +1,4 @@
 # Call Center Performance Analysis
-
-
 ## Project Overview  
 This project presents an **interactive Excel dashboard** built to analyze and monitor a **call center’s performance**.  
 The dashboard provides a clear overview of **call activity, sales performance, customer demographics, and representative efficiency**.  
